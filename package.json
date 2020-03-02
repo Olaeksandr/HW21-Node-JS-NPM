@@ -1,0 +1,12 @@
+{
+  "name": "hw21-nodejs",
+  "version": "1.0.0",
+  "description": "simple calculator",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleksandr Masiuk <ommasiuk@gmail.com>",
+  "license": "ISC"
+}
